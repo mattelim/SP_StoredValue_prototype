@@ -1,0 +1,29 @@
+html {
+  background-color: silver;
+  min-width: 500px;
+}
+
+p {
+  font-family: Arial;
+  color: grey;
+}
+
+#mainUL {
+  text-align: center;
+  padding-top: 5%;
+}
+
+ul {
+  list-style-type: none;
+  vertical-align: middle;
+}
+
+.clickBox {
+  display: inline-block;
+  background-color: darkgray;
+  width: 75px;
+  height: 75px;
+  margin: 25px;
+  color: transparent;
+  border-radius: 5px;
+}
