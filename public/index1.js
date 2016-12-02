@@ -1,7 +1,7 @@
 $(".clickBox").click(function() {
   var thisId = $(this).attr('id');
   //console.log(thisId);
-  var filename = 'files/' + thisId + '.wav';
+  var filename = 'files/' + thisId + '.mp3';
   var audio = new Audio(filename);
 
   var clickBox = $(this);
