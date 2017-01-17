@@ -1,6 +1,6 @@
 html {
   background-color: silver;
-  min-width: 500px;
+  min-width: 700px;
 }
 
 p {
@@ -10,7 +10,7 @@ p {
 
 #mainUL {
   text-align: center;
-  padding-top: 5%;
+  padding-top: 2%;
 }
 
 ul {
